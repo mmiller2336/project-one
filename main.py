@@ -2,4 +2,7 @@
 print("hello, I'm main.py")
 
 
-print("This is another print statement.")
+
+for i in range(2):
+    print(i)
+
